@@ -14,7 +14,7 @@ It includes:
 | Course |  |
 |--------|-------|
 | [Welcome to ServiceNow (Xanadu)](/learning-path/welcome-to-servicenow-xanadu.md) | ![badge](/images/welcome-to-ServiceNow-badge.png) |
-| [Micro-Certification: Welcome to ServiceNow](/learning-path/) | ![badge](/images/micro-certification-welcome-to-ServiceNow-badge.png)  |
+| [Micro-Certification: Welcome to ServiceNow](/learning-path/welcome-to-servicenow-xanadu.md) | ![badge](/images/micro-certification-welcome-to-ServiceNow-badge.png)  |
 
 ---
 
