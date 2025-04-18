@@ -24,6 +24,9 @@ This foundational course provided a broad overview of the ServiceNow platform, s
 
 ---
 
-## 🏆 Proof of Completion
+## 🏅 Certification Earned
 
-![Course Completion](/screenshots/xanadu-course-completion.png)
+I successfully completed the **Micro-Certification: Welcome to ServiceNow**  
+issued by ServiceNow via Now Learning after finishing the course and passing the final assessment.
+
+![Course Completion](/screenshots/micro-certification-welcome-sevicenow.png)
