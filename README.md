@@ -15,6 +15,7 @@ It includes:
 |--------|-------|
 | [Welcome to ServiceNow (Xanadu)](/learning-path/welcome-to-servicenow-xanadu.md) | ![badge](/images/welcome-to-ServiceNow-badge.png) |
 | [Micro-Certification: Welcome to ServiceNow](/learning-path/welcome-to-servicenow-xanadu.md) | ![badge](/images/micro-certification-welcome-to-ServiceNow-badge.png)  |
+| [ServiceNow Administration Fundamentals On Demand (Xanadu)](/) | <img src="https://i.gifer.com/74H8.gif" width="20" style="margin-left: 8px;" /> |
 
 ---
 
