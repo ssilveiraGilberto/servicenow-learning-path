@@ -17,16 +17,4 @@
 
 ## 💬 Notes
 
-This course has been a great deep dive into the core administrative functions of ServiceNow as I prepare for my **CSA certification**. 
-
-### 📝 Handling a Real-World Challenge in Lab 4.1.1
-
-While working on **Lab 4.1.1: Create Table for HHD Configuration Records**, I encountered an interesting challenge — adding the `Assigned to.Email` field to the Holographic Handheld Devices (HHDs) list view.
-
-I discovered that ServiceNow doesn’t always allow direct dot-walking for reference fields in list layouts. To solve this, I created a **Function Field** that dynamically pulls the email from the `Assigned to` user:
-
-```plaintext
-1. Created a String field called 'Assigned to Email'.
-2. Enabled 'Function Field' and set the function to: assigned_to.email
-3. Set Max Length to 100.
-4. Added the new field to the list layout.
+This course has been a great deep dive into the core administrative functions of ServiceNow as I prepare for my **CSA certification**.
